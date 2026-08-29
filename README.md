@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Sorting
 |  |
@@ -37,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
