@@ -28,11 +28,7 @@ public:
         for(int i = 0; i < n; i++) {
             parent[i] = i;
         }
-
-        // email -> account index
         unordered_map<string, int> mp;
-
-        // Connect accounts having common emails
         for(int i = 0; i < n; i++) {
 
             for(int j = 1; j < accounts[i].size(); j++) {
@@ -45,14 +41,11 @@ public:
                     mp[email] = i;
                 }
                 else {
-
-                    // Email already belongs to another account
                     unionSet(i, mp[email]);
                 }
             }
         }
 
-        // Store emails according to their parent
         vector<vector<string>> merged(n);
 
         for(auto it : mp) {
@@ -67,7 +60,6 @@ public:
 
         vector<vector<string>> ans;
 
-        // Create final accounts
         for(int i = 0; i < n; i++) {
 
             if(merged[i].size() == 0)
@@ -77,7 +69,7 @@ public:
 
             vector<string> temp;
 
-            temp.push_back(accounts[i][0]);  // name
+            temp.push_back(accounts[i][0]); 
 
             for(auto email : merged[i]) {
                 temp.push_back(email);
