@@ -19,16 +19,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Sorting
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
