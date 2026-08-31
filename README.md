@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/itsjasleen/DSA-Problems/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
