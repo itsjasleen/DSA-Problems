@@ -4,13 +4,15 @@ public:
     vector<int> parent;
 
     int find(int x) {
-        if(parent[x] == x)
+        if(parent[x] == x) {
             return x;
+        }
 
         return parent[x] = find(parent[x]);
     }
 
     void unionSet(int a, int b) {
+
         int parentA = find(a);
         int parentB = find(b);
 
@@ -19,7 +21,8 @@ public:
         }
     }
 
-    vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
+    vector<vector<string>> accountsMerge(
+        vector<vector<string>>& accounts) {
 
         int n = accounts.size();
 
@@ -28,7 +31,10 @@ public:
         for(int i = 0; i < n; i++) {
             parent[i] = i;
         }
+
         unordered_map<string, int> mp;
+
+        // Connect accounts having common emails
         for(int i = 0; i < n; i++) {
 
             for(int j = 1; j < accounts[i].size(); j++) {
@@ -36,8 +42,6 @@ public:
                 string email = accounts[i][j];
 
                 if(mp.find(email) == mp.end()) {
-
-                    // First time seeing this email
                     mp[email] = i;
                 }
                 else {
@@ -46,7 +50,8 @@ public:
             }
         }
 
-        vector<vector<string>> merged(n);
+        // Group emails according to DSU parent
+        map<int, vector<string>> merged;
 
         for(auto it : mp) {
 
@@ -58,20 +63,22 @@ public:
             merged[parentAccount].push_back(email);
         }
 
+        // Build answer
         vector<vector<string>> ans;
 
-        for(int i = 0; i < n; i++) {
+        for(auto it : merged) {
 
-            if(merged[i].size() == 0)
-                continue;
+            int account = it.first;
 
-            sort(merged[i].begin(), merged[i].end());
+            vector<string> emails = it.second;
+
+            sort(emails.begin(), emails.end());
 
             vector<string> temp;
 
-            temp.push_back(accounts[i][0]); 
+            temp.push_back(accounts[account][0]);
 
-            for(auto email : merged[i]) {
+            for(string email : emails) {
                 temp.push_back(email);
             }
 
