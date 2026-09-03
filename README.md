@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -28,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/itsjasleen/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -53,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 ## Math
 |  |
@@ -63,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/itsjasleen/DSA-Problems/tree/master/1486-xor-operation-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
