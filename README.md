@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/itsjasleen/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/itsjasleen/DSA-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/itsjasleen/DSA-Problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/itsjasleen/DSA-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/itsjasleen/DSA-Problems/tree/master/1192-critical-connections-in-a-network) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/itsjasleen/DSA-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/itsjasleen/DSA-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
