@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [2974-minimum-number-game](https://github.com/itsjasleen/DSA-Problems/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/itsjasleen/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
 |  |
