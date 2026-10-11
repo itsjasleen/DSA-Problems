@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/itsjasleen/DSA-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsjasleen/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/itsjasleen/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/itsjasleen/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/itsjasleen/DSA-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsjasleen/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/itsjasleen/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/itsjasleen/DSA-Problems/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
