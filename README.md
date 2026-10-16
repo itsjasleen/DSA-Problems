@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/itsjasleen/DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/itsjasleen/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/itsjasleen/DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/itsjasleen/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
