@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/itsjasleen/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [2974-minimum-number-game](https://github.com/itsjasleen/DSA-Problems/tree/master/2974-minimum-number-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsjasleen/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
@@ -158,8 +160,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
