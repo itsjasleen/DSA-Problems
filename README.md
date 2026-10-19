@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/itsjasleen/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/itsjasleen/DSA-Problems/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/itsjasleen/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/itsjasleen/DSA-Problems/tree/master/2974-minimum-number-game) |
 ## Graph Theory
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/itsjasleen/DSA-Problems/tree/master/0778-swim-in-rising-water) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/itsjasleen/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Minimax
 |  |
 | ------- |
