@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/itsjasleen/DSA-Problems/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/itsjasleen/DSA-Problems/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/itsjasleen/DSA-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/itsjasleen/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/itsjasleen/DSA-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
 |  |
