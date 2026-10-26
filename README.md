@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/itsjasleen/DSA-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/itsjasleen/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/itsjasleen/DSA-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2484-count-palindromic-subsequences](https://github.com/itsjasleen/DSA-Problems/tree/master/2484-count-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/itsjasleen/DSA-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/itsjasleen/DSA-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
+| [2484-count-palindromic-subsequences](https://github.com/itsjasleen/DSA-Problems/tree/master/2484-count-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
