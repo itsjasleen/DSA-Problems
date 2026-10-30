@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/itsjasleen/DSA-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/itsjasleen/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/itsjasleen/DSA-Problems/tree/master/0139-word-break) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/itsjasleen/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/itsjasleen/DSA-Problems/tree/master/0070-climbing-stairs) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsjasleen/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Knapsack Problem
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/itsjasleen/DSA-Problems/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
