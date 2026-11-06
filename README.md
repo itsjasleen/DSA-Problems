@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsjasleen/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/itsjasleen/DSA-Problems/tree/master/1048-longest-string-chain) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/itsjasleen/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/itsjasleen/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/itsjasleen/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/itsjasleen/DSA-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/itsjasleen/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/itsjasleen/DSA-Problems/tree/master/2484-count-palindromic-subsequences) |
 ## Depth-First Search
 |  |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1106-parsing-a-boolean-expression](https://github.com/itsjasleen/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/itsjasleen/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
