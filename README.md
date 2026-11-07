@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/itsjasleen/DSA-Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/itsjasleen/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/itsjasleen/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/itsjasleen/DSA-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/itsjasleen/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/itsjasleen/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/itsjasleen/DSA-Problems/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/itsjasleen/DSA-Problems/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/itsjasleen/DSA-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/itsjasleen/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsjasleen/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Knapsack Problem
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/itsjasleen/DSA-Problems/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/itsjasleen/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/itsjasleen/DSA-Problems/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/itsjasleen/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/itsjasleen/DSA-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
