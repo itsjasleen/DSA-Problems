@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsjasleen/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/itsjasleen/DSA-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/itsjasleen/DSA-Problems/tree/master/0115-distinct-subsequences) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsjasleen/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/itsjasleen/DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/itsjasleen/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/itsjasleen/DSA-Problems/tree/master/0063-unique-paths-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsjasleen/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/itsjasleen/DSA-Problems/tree/master/0494-target-sum) |
 ## Longest Increasing Subsequence
 |  |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/itsjasleen/DSA-Problems/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itsjasleen/DSA-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
